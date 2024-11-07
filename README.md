@@ -1,16 +1,34 @@
-## Hi there 👋
+<img align="right" src=" https://visitor-badge.laobi.icu/badge?page_id=ImStezzy.ImStezzy"/> 
 
-<!--
-**ImStezzy/ImStezzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <a href="https://git.oi/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4600&lines=Hi+There!+👋;I'm+Alkhairi+Jusuf;A+Software+Engineering+from+Indonesian;" />
+  </a>
+</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="https://img.shields.io/static/v1?message=Portfolio&logo=todoist&label=&color=FF6633&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfoliio logo"  /> <!--sqlite, safari, google-chrome are other good icon options -->
+</div>
+<br/>
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,html,python,cs,androidstudio"/><br>
+     <img src="https://skillicons.dev/icons?i=dotnet,react,mysql,flutter,unity"/>
+  </a>
+</p>
+
+<br/>
+<hr/>
+
+<h2 align="left"> Connect with me :</h2>
+<div align="left">
+<a href="https://www.instagram.com/alkhairi_je/" target="blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+<a href="https://www.discord.com/users/yo_1y_23238/" target="blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<a href="https://www.1stezza199@gmail.com/" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<a href="https://www.linkedin.com/in/pena-kun-764352233/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
