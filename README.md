@@ -2,12 +2,12 @@
 
 <h3 align="center">
   <a href="https://git.oi/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=900&height=70&duration=4600&lines=Hi+There!+👋;I'm+Alkhairi+Jusuf;A+Software+Engineering+from+Indonesian;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=950&height=70&duration=4600&lines=Hi+There!+👋;I'm+Alkhairi+Jusuf;A+Software+Engineering+from+Indonesian;" />
   </a>
 </h3>
 
 <div align="center">
-<img src="https://img.shields.io/static/v1?message=Portfolio&logo=todoist&label=&color=FF6633&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfoliio logo"  /> <!--sqlite, safari, google-chrome are other good icon options -->
+<img src="https://img.shields.io/static/v1?message=Portfolio&logo=todoist&label=&color=FF6633&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Portfoliio logo"  /> <!--sqlite, safari, google-chrome are other good icon options -->
 </div>
 <br/>
 <hr/>
