@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-<img src="https://img.shields.io/static/v1?message=Portfolio&logo=todoist&label=&color=FF6633&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfoliio logo"  /> <!--sqlite, safari, google-chrome are other good icon options -->
+<img src="https://img.shields.io/static/v1?message=Portfolio&logo=todoist&label=&color=FF6633&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Portfoliio logo"  /> <!--sqlite, safari, google-chrome are other good icon options -->
 </div>
 <br/>
 <hr/>
