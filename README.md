@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://git.oi/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1010&height=70&duration=4900&lines=Hi+There!+👋;I'm+Alkhairi+Jusuf;A+Software+Engineering+from+Indonesian;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=900&height=70&duration=4900&lines=Hi+There!+👋;I'm+Alkhairi+Jusuf;A+Software+Engineering+from+Indonesian;" />
   </a>
 </h3>
 
