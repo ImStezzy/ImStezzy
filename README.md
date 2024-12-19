@@ -1,3 +1,5 @@
+[![GitHub stars](https://img.shields.io/github/stars/username/repository-name?style=social)](https://github.com/username/repository-name)
+
 <img align="right" src=" https://visitor-badge.laobi.icu/badge?page_id=ImStezzy.ImStezzy"/> 
 
 <h3 align="center">
