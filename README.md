@@ -1,3 +1,5 @@
+<img align="right" src=" https://visitor-badge.laobi.icu/badge?page_id=ImStezzy.ImStezzy"/> 
+
 # Proyek Saya
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=flat-square)](https://github.com/yourusername/yourrepo)
@@ -11,7 +13,6 @@
 
 
 
-<img align="right" src=" https://visitor-badge.laobi.icu/badge?page_id=ImStezzy.ImStezzy"/> 
 
 <h3 align="center">
   <a href="https://git.oi/typing-svg">
