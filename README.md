@@ -28,7 +28,7 @@
 
 # Proyek Saya
 
-[![GitHub stars](https://img.shields.io/github/stars/IMStezzy/GameEdukasi?style=flat-square)](https://github.com/IMStezzy/ReactPortofolioV2)
+[![GitHub stars](https://img.shields.io/github/stars/IMStezzy/Game-Edukasi?style=flat-square)](https://github.com/IMStezzy/ReactPortofolioV2)
 [![GitHub forks](https://img.shields.io/github/forks/IMStezzy/Game Edukasi?style=flat-square)](https://github.com/IMStezzy/React Portofolio V2)
 
 | Nama Repositori | Deskripsi | Keberhasilan |
