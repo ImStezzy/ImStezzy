@@ -33,12 +33,9 @@
 
 | Nama Repositori | Deskripsi |
 |---|---|
-| **Proyek Utama** | Deskripsi singkat proyek utama |
+| **Game Edukasi** | Game dengan judul Mabel "mari belajar" berbasis edukasi untuk anak TK (100% berhasil) |
 | **Perpustakaan Utilitas** | Perpustakaan yang sering digunakan |
 | **Contoh Proyek** | Contoh penggunaan teknologi X |
-
-
-https://game-edukasi.vercel.app/api/pin/?username=IMStezzy&repo=Game-Edukasi&theme=great-gatsby
 
 
 <h2 align="left"> Connect with me :</h2>
