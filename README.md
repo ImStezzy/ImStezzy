@@ -31,6 +31,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/IMStezzy/Game-Edukasi?style=flat-square)](https://github.com/IMStezzy/Game-Edukasi)
 [![GitHub forks](https://img.shields.io/github/forks/IMStezzy/Game-Edukasi?style=flat-square)](https://github.com/IMStezzy/Game-Edukasi)
 
+[![GitHub stars](https://img.shields.io/github/stars/IMStezzy/Game-Edukasi?style=flat-square)](https://github.com/IMStezzy/Game-Edukasi)
+[![GitHub forks](https://img.shields.io/github/forks/IMStezzy/Game-Edukasi?style=flat-square)](https://github.com/IMStezzy/Game-Edukasi)
+
 | Nama Repositori | Deskripsi | Keberhasilan |
 |---|---|---|
 | **Game Edukasi** | Game dengan judul Mabel "mari belajar" berbasis edukasi untuk anak TK | 100% Berhasil |
