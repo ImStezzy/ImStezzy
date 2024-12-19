@@ -31,11 +31,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=flat-square)](https://github.com/yourusername/yourrepo)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=flat-square)](https://github.com/yourusername/yourrepo)
 
-| Nama Repositori | Deskripsi |
-|---|---|
-| **Game Edukasi** | Game dengan judul Mabel "mari belajar" berbasis edukasi untuk anak TK (100% berhasil) |
-| **Perpustakaan Utilitas** | Perpustakaan yang sering digunakan |
-| **Contoh Proyek** | Contoh penggunaan teknologi X |
+| Nama Repositori | Deskripsi | Keberhasilan |
+|---|---|---|
+| **Game Edukasi** | Game dengan judul Mabel "mari belajar" berbasis edukasi untuk anak TK | 100% Berhasil |
+| **React Portofolio V2** | Implementasi react JS dalam pembuatan Portofolio pribadi (private) | 60% Progress |
 
 
 <h2 align="left"> Connect with me :</h2>
