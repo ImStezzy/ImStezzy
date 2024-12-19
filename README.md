@@ -1,19 +1,5 @@
 <img align="right" src=" https://visitor-badge.laobi.icu/badge?page_id=ImStezzy.ImStezzy"/> 
 
-# Proyek Saya
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=flat-square)](https://github.com/yourusername/yourrepo)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=flat-square)](https://github.com/yourusername/yourrepo)
-
-| Nama Repositori | Deskripsi |
-|---|---|
-| **Proyek Utama** | Deskripsi singkat proyek utama |
-| **Perpustakaan Utilitas** | Perpustakaan yang sering digunakan |
-| **Contoh Proyek** | Contoh penggunaan teknologi X |
-
-
-
-
 <h3 align="center">
   <a href="https://git.oi/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=950&height=70&duration=5000&lines=Hi+There!+👋;I'm+Alkhairi+Jusuf;A+Software+Engineering+from+Indonesian;" />
@@ -37,6 +23,18 @@
 
 <br/>
 <hr/>
+
+
+# Proyek Saya
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=flat-square)](https://github.com/yourusername/yourrepo)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=flat-square)](https://github.com/yourusername/yourrepo)
+
+| Nama Repositori | Deskripsi |
+|---|---|
+| **Proyek Utama** | Deskripsi singkat proyek utama |
+| **Perpustakaan Utilitas** | Perpustakaan yang sering digunakan |
+| **Contoh Proyek** | Contoh penggunaan teknologi X |
 
 <h2 align="left"> Connect with me :</h2>
 <div align="left">
