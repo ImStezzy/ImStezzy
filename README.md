@@ -38,13 +38,7 @@
 | **Contoh Proyek** | Contoh penggunaan teknologi X |
 
 
-<a href="https://github.com/ImStezzy/Game-Edukasi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMStezzy&repo=Game-Edukasi&theme=great-gatsby"/>
-</a>
-
-<a href="https://github.com/IMStezzy/Game-Edukasi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMStezzy&repo=Game-Edukasi&theme=great-gatsby" />
-</a>
+https://github-readme-stats.vercel.app/api/pin/?username=IMStezzy&repo=Game-Edukasi&theme=great-gatsby
 
 
 <h2 align="left"> Connect with me :</h2>
