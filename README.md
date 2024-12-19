@@ -37,6 +37,13 @@
 | **Perpustakaan Utilitas** | Perpustakaan yang sering digunakan |
 | **Contoh Proyek** | Contoh penggunaan teknologi X |
 
+
+  <a href="https://github.com/IMStezzy/android-app-market-on-Gplay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=android-app-market-on-Gplay&theme=great-gatsby" />
+</a>
+
+
+
 <h2 align="left"> Connect with me :</h2>
 <div align="left">
 <a href="https://www.instagram.com/alkhairi_je/" target="blank">
