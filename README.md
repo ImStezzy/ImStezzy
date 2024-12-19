@@ -42,6 +42,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMStezzy&repo=Game-Edukasi&theme=great-gatsby"/>
 </a>
 
+<a href="https://github.com/SumanthBajjuri07/android-app-market-on-Gplay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=android-app-market-on-Gplay&theme=great-gatsby" />
+</a>
+
 
 <h2 align="left"> Connect with me :</h2>
 <div align="left">
