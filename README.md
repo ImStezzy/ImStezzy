@@ -29,7 +29,6 @@
 # Proyek Saya
 
 [![GitHub stars](https://img.shields.io/github/stars/IMStezzy/Game-Edukasi?style=flat-square)](https://github.com/IMStezzy/Game-Edukasi)
-
 [![GitHub forks](https://img.shields.io/github/forks/IMStezzy/Game-Edukasi?style=flat-square)](https://github.com/IMStezzy/Game-Edukasi)
 
 | Nama Repositori | Deskripsi | Keberhasilan |
