@@ -39,7 +39,7 @@
 
 
 <a href="https://github.com/ImStezzy/Game-Edukasi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMStezzy&repo=Game-Edukasi"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMStezzy&repo=Game-Edukasi&theme=great-gatsby"/>
 </a>
 
 
