@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://github.com/IMStezzy/Game-Edukasi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=android-app-market-on-Gplay&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMStezzy&repo=Game-Edukasi&theme=great-gatsby" />
 </a>
 
 
